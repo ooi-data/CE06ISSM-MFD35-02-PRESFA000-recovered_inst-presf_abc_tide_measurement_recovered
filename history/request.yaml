@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE06ISSM-MFD35-02-PRESFA000-recovered_inst-presf_abc_tide_measurement_recovered
 last_request: '2022-01-21T18:04:45.685437Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-MFD35-02-PRESFA000-recovered_inst-presf_abc_tide_measurement_recovered/main/history/response.json
-status: pending
+status: success
